@@ -20,8 +20,8 @@ const Untitled2 = () => {
       borderRadius: 0,
       color: "#777777"
     }}><Text style={{
-        left: 39,
-        top: 16,
+        left: 47,
+        top: 8,
         position: "absolute",
         width: "120px",
         height: "52px",
